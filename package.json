@@ -5,9 +5,12 @@
   "dependencies": {
     "@material-ui/core": "^3.2.2",
     "@material-ui/icons": "^3.0.1",
+    "memoize-one": "^4.0.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.5"
+    "react-scripts": "2.0.5",
+    "react-virtualized-auto-sizer": "^1.0.2",
+    "react-window": "^1.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
